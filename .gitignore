@@ -1,0 +1,12 @@
+# Ignore the large database files
+*.parquet
+
+# Ignore the Windows executable
+*.exe
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Mac system files
+.DS_Store
